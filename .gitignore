@@ -1,0 +1,21 @@
+# --- Hugging Face / PyTorch 本地模型缓存（体积大、勿提交）---
+.hf_cache/
+
+# Python
+__pycache__/
+*.pyc
+.Python
+.venv/
+venv/
+.env
+.env.*
+
+# --- 课程/实验报告及附图（保留在本地；请勿上传远程仓库）---
+实验报告.md
+实验报告.pdf
+课程报告.md
+课程报告.pdf
+image/
+
+# macOS
+.DS_Store
